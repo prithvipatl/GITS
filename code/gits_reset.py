@@ -11,7 +11,7 @@ def gits_reset(args):
         process1 = subprocess.Popen(['git', 'checkout', args.branch], stdout=PIPE, stderr=PIPE)
         stdout, stderr = process1.communicate()
         # print(stdout)
-        process2 = subprocess.Popen(['git', 'reset', '--hard', 'origin', args.branch], stdout=PIPE, stderr=PIPE)
+        process2 = subprocess.Popen(['git', 'reset', '--hard', f'origin/{args.branch}'], stdout=PIPE, stderr=PIPE)
         stdout, stderr = process2.communicate()
         # print(stdout)
     except Exception as e:
