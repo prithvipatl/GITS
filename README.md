@@ -26,8 +26,7 @@
 
 ### Supported functionality
 
-#### gits pr_update
-This functionality makes sure that the current branch is able to make a PR without much trouble ( conflict ). It makes sure that the current branch has the latest commit off master branch, and that the local master has all the commits from the upstream master. This helps in reducing merge conflicts
+We suggest using the following commands and for more help on their arguments, use `<command> -h`<br/>
 
 #### gits profile
 This functionality allows the user to change the git account quickly with a single command. There are situations when a developer has a personal github account and a enterprise github account as well. Changing between these accounts is a little complicated. This functionality aims to simplify it.
@@ -39,21 +38,21 @@ This is a highly simplified version of git rebase command. This interactive comm
 'Reset' intuitively means a HARD reset. This functionality does a HARD reset on your branch, and makes it even with the remote branch. This aims to simplify the confusion between HARD and the SOFT reset.  
 
 #### gits set
-This functionality sets the parent branch. 
+This functionality sets the parent branch.
 
 #### gits upstream
 This functionality changes the upstream with a single command. No need to manually remove the existing upstream, and adding a new upstream. This command will automatically change the upstream for the git repo. If there is any existing upstream , it will be overwritten.
 
-#### gits super reset
-Have you ever run into a situation, where you had to clone the repository again ? Yes, this functionality is exactly for that scenario. It will remove the current repository. It will clone it again, and add all the 'remote' to this freshly cloned repository. 
+#### gits super-reset
+Have you ever run into a situation, where you had to clone the repository again ? Yes, this functionality is exactly for that scenario. It will remove the current repository. It will clone it again, and add all the 'remote' to this freshly cloned repository.
 
 #### gits add 
 Function that adds files as passed to the gits add command. Performs operation as similar to git add command
 
 #### gits commit
-It is a highly simplified version of git commit command. We are actively working on this functionality such that a commit would fail if the unit tests does not pass. We can specify the tests that need to pass before the commit can actually happen. 
+It is a highly simplified version of git commit command. We are actively working on this functionality such that a commit would fail if the unit tests does not pass. We can specify the tests that need to pass before the commit can actually happen.
 
-#### gits create_branch
+#### gits create
 This automatically checks out a new branch from local master , after pulling all the changes from the remote master to local master. The idea behind this is that this new branch should have all the latest commits before a developer starts working on them.
 
 #### gits all-branch
@@ -72,7 +71,7 @@ Function that creates an empty Git repository or re-initializes an existing one.
 This logs all the commands executed by the user, and also stores the output of each command
 
 #### gits push
-This pushes all the local changes of origin to the branch specified. 
+This pushes all the local changes of origin to the branch specified.
 
 #### gits checkout
 This command switches between two branches. The function takes branch name as input and returns True for successful execution or False otherwise with an exception.
@@ -80,6 +79,14 @@ This command switches between two branches. The function takes branch name as in
 #### gits unstage
 This command moves files from staging area to the working directory. These untracked files will not be considered for the upcoming commits. The function filenames as input to move from staging area to working directory and returns True for successful execution or False with an exception.
 
+#### gits sync
+This command syncs the current branch with master branch and tries to rebase the branch.
+
+#### gits status
+This command shows the status of the current brach you are working on.
+
+#### gits pr_update
+This functionality makes sure that the current branch is able to make a PR without much trouble ( conflict ). It makes sure that the current branch has the latest commit off master branch, and that the local master has all the commits from the upstream master. This helps in reducing merge conflicts
 
 Note: More functionality are being added to this project. Please refer to the 'issues' tab for more information. In case you want to contribute to this project , please refer to 'Contributing.md' file.
 
