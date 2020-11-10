@@ -15,16 +15,19 @@ Follow the below mentioned steps to setup GITS on Linux/MacOS:
 3. Navigate inside the `configurations` folder and run the folllowing commands: <br/> 
 - `chmod +x project_init.sh` <br/> 
 - `./project_init.sh` <br/> 
-- `source .bashrc` <br/>https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+- `source ~/.bashrc` <br/>https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 4. Run `gits hello_world` from any directory. If you end up getting a welcome msg you're good to go!
 
 ## VCL Steps
 
 1. Reserve [VCL](https://vcl.ncsu.edu/) for more than 1 hour, with 1 hour being your expieriment time.
 2. Create a setup.sh file and copy the contents of [setup.sh](./setup.sh)
+   1. `chmod +x setup.sh`
+   2. Run setup.sh `./setup.sh`
+   3. `source ~/.bashrc`
 3. Generate SSH RSA key pair and upload the public key to your github account. Refer to steps [here](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and [here](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
 4. Change your name and email id. `git config --global user.email "token@gma.com"` and `git config --global user.name "<token>"`
-5. 1. Clone the test repository Phase3Trials using the url: `git@github.com:prithvipatl/Phase3Trials.git` as we have setup ssh keys so that we do not require authentication while pushing changes.
+5. Clone the test repository Phase3Trials using the url: `git@github.com:prithvipatl/Phase3Trials.git` as we have setup ssh keys so that we do not require authentication while pushing changes.
 
 ## Experiment
 
