@@ -20,14 +20,15 @@ Follow the below mentioned steps to setup GITS on Linux/MacOS:
 
 ## VCL Steps
 
-1. Reserve [VCL](https://vcl.ncsu.edu/) for more than 1 hour, with 1 hour being your expieriment time.
+1. Reserve [VCL](https://vcl.ncsu.edu/), Ubuntu-16.04 image for more than 1 hour, with 1 hour being your expieriment time.
 2. Create a setup.sh file and copy the contents of [setup.sh](./setup.sh)
    1. `chmod +x setup.sh`
    2. Run setup.sh `./setup.sh`
    3. `source ~/.bashrc`
 3. Generate SSH RSA key pair and upload the public key to your github account. Refer to steps [here](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and [here](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
 4. Change your name and email id. `git config --global user.email "token@gma.com"` and `git config --global user.name "<token>"`
-5. Clone the test repository Phase3Trials using the url: `git@github.com:prithvipatl/Phase3Trials.git` as we have setup ssh keys so that we do not require authentication while pushing changes.
+5. Clone the test repository Phase3Trials using the commmand: `git clone git@github.com:prithvipatl/Phase3Trials.git` as we have setup ssh keys so that we do not require authentication while pushing changes. This repository will be used for GITS commands.
+6. Also, clone the repository Phase3Git repo using the command: `git clone git@github.com:prithvipatl/Phase3Git.git`. This repository will be used for git commands.
 
 ## Experiment
 
@@ -58,6 +59,8 @@ Complete the Following Tasks using GITS and the git commands. You will be using 
 10. Check whether you have any conflicts with `main` branch.
 11. Seems there are too many changes and it has been messed up for two branches. Remove the repo and restart your work by starting afresh.
 12. Change your email id again.
+
+Participants fill the questionnaire: https://forms.gle/cvH3f6aYvojgsyVv5
 
 ## Rights of the Participants
 
