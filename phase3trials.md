@@ -50,15 +50,13 @@ Complete the Following Tasks using GITS and the git commands. You will be using 
 5. Again inside the `<token>-1`
    1. Create another file, `test2.txt`, add text to it.
    2. Commit the change.
-   3. You do not need these changes, rebase this branch.
+   3. You do not need these changes, rebase this local branch with remote `<token>-1`, that is undo all the commits which are not pushed.
 6. Change the branch to `<token>-2`
    1. Create a file, `test2.txt`, commit it and push it.
 7. Track/upstream the remote `<token>-2` using local `<token>-1`.
-8. Change to `<token>-1`, check the status and make changes to commit.
-9. Push the changes to remote `<token>-1` and remote `<token>-2`.
-10. Check whether you have any conflicts with `main` branch.
-11. Seems there are too many changes and it has been messed up for two branches. Remove the repo and restart your work by starting afresh.
-12. Change your email id again.
+8. Check the status of the branch and see if it shows whether the status wrt `<token>-2` is displayed.
+9. Check whether you have any conflicts with `main` branch by merging the latest main branch in to local `<token>-1`.
+10.Seems there are too many changes and it has been messed up for two branches. Remove the repo and restart your work by cloning the repo. 
 
 Participants fill the questionnaire: https://forms.gle/cvH3f6aYvojgsyVv5
 
