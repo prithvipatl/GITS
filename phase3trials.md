@@ -56,7 +56,8 @@ Complete the Following Tasks using GITS and the git commands. You will be using 
 7. Track/upstream the remote `<token>-2` using local `<token>-1`.
 8. Check the status of the branch and see if it shows whether the status wrt `<token>-2` is displayed.
 9. Check whether you have any conflicts with `main` branch by merging the latest main branch in to local `<token>-1`.
-10.Seems there are too many changes and it has been messed up for two branches. Remove the repo and restart your work by cloning the repo. 
+
+10. Seems there are too many changes and it has been messed up for two branches. Remove the repo and restart your work by cloning the repo. 
 
 Participants fill the questionnaire: https://forms.gle/cvH3f6aYvojgsyVv5
 
