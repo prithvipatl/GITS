@@ -40,22 +40,15 @@ We reserved VCL machine and had setup the environment for the experiment over it
 
 ### Results
 
-|Token		  	|	GITS duration(sec) 	|	git duration(sec)  	|
-|----------- 	| ------------------ 	| ------------------- 	|
-|r347911	  	|	933			  		|	1920          		|
-|r971123	  	|	852			  		|	1047          		|
-|r495552	  	|	550			  		|	733           		|
-|r364956	  	|	776			  		|	755           		|
-|r901564	  	|	1018		  		|	1115          		|
-|r282785	  	|	1021		  		|	1136          		|
-|r911285	  	|	1521		  		|	1723          		|
-|r844330	  	|	981			  		|	1320          		|
-|r849492	  	|	2113		  		|	2331          		|
-|r643719	  	|	1349		  		|	1332          		|
+From our trials, as seen from the bar chart below, majority of our subjects had taken lesser time for GITS. Since GITS has multiple commands grouped into 1, it has proven to be comparatively simpler and user friendly. Also, GITS does save on time required to manually merge the commits. 
 
 ![GITSvsgit](/images/GITSvsgit.png)
 
 ### User Experience- Survey Results
+
+From the survey, majority of our subjects did feel that GITS makes their lives simpler. 
+A point to note, here 2 of our subjects had little or no previous exposure to git. They were 1st presented with git, and later presented with GITS. They did feels that GITS is simpler and more user friendly, as seend from the chart below! 
+
 ![Q1](/images/q1.png)
 ![Q2](/images/q2.png)
 ![Q3](/images/q3.png)
