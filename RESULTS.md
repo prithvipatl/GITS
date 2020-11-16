@@ -40,16 +40,22 @@ We reserved VCL machine and had setup the environment for the experiment over it
 
 ### Results
 
-| Token       | GITS duration | Git duration  | 
-| ----------- | ------------- | ------------- |
-| r347911     | 933sec        | 1920sec       |
-| r971123     | 14m 12s       | 17m 27s       |
-| r495552     | 9m 10s        | 12m 13ss      |
-| r364956     | 12.56.28      | 12.35.28      |
-| r901564     | 16.58.65      | 18.35.40      |
-| r282785     | 1021sec       | 1136sec       |
+|Token		  	|	GITS duration(sec) 	|	git duration(sec)  	|
+|----------- 	| ------------------ 	| ------------------- 	|
+|r347911	  	|	933			  		|	1920          		|
+|r971123	  	|	852			  		|	1047          		|
+|r495552	  	|	550			  		|	733           		|
+|r364956	  	|	776			  		|	755           		|
+|r901564	  	|	1018		  		|	1115          		|
+|r282785	  	|	1021		  		|	1136          		|
+|r911285	  	|	1521		  		|	1723          		|
+|r844330	  	|	981			  		|	1320          		|
+|r849492	  	|	2113		  		|	2331          		|
+|r643719	  	|	1349		  		|	1332          		|
 
-### Bar Graph for the results
+![GITSvsgit](/images/GITSvsgit.png)
+
+### User Experience- Survey Results
 ![Q1](/images/q1.png)
 ![Q2](/images/q2.png)
 ![Q3](/images/q3.png)
