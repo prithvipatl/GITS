@@ -38,6 +38,15 @@ We reserved VCL machine and had setup the environment for the experiment over it
 
 ## Obseravtions and Analysis
 
+| Token       | GITS duration | git duration  |
+| ----------- | ------------- | ------------- |
+| r347911     | 933sec        | 1920sec       |
+| r971123     | 14m 12s       | 17m 27s       |
+| r495552     | 9m 10s        | 12m 13ss      |
+| r364956     | 12.56.28      | 12.35.28      |
+| r901564     | 16.58.65      | 18.35.40      |
+| r282785     | 1021sec       | 1136sec       |
+
 ## Conclusions
 
 ## Threats to Validity
