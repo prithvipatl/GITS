@@ -18,7 +18,7 @@ We reserved VCL machine and had setup the environment for the experiment over it
   
  1. Setup the environment for the participant, so that the participant can start with tasks.
  2. Maintain the web server and client, and a database where the evaluation data is collected.
- 3. Maintain [Google Sheet](link here) for the responses.
+ 3. Maintain [Google Sheet](https://docs.google.com/spreadsheets/d/1tOIt74jks1LuwuVr8lcL8rNQJvhnQANgWujmBZlEMG8/edit?usp=sharing) for the responses.
 
 *Pre-Experiment Questionnaire -*
 
