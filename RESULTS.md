@@ -38,7 +38,9 @@ We reserved VCL machine and had setup the environment for the experiment over it
 
 ## Obseravtions and Analysis
 
-| Token       | GITS duration | git duration  |
+### Results
+
+| Token       | GITS duration | Git duration  | 
 | ----------- | ------------- | ------------- |
 | r347911     | 933sec        | 1920sec       |
 | r971123     | 14m 12s       | 17m 27s       |
@@ -47,7 +49,11 @@ We reserved VCL machine and had setup the environment for the experiment over it
 | r901564     | 16.58.65      | 18.35.40      |
 | r282785     | 1021sec       | 1136sec       |
 
+### Bar Graph for the results
+
+
 ## Conclusions
+
 
 ## Threats to Validity
 
