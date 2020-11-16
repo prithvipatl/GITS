@@ -50,7 +50,12 @@ We reserved VCL machine and had setup the environment for the experiment over it
 | r282785     | 1021sec       | 1136sec       |
 
 ### Bar Graph for the results
-
+![Q1](/images/q1.png)
+![Q2](/images/q2.png)
+![Q3](/images/q3.png)
+![Q4](/images/q4.png)
+![Q5](/images/q5.png)
+![Q6](/images/q6.png)
 
 ## Conclusions
 
