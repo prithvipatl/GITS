@@ -41,3 +41,9 @@ We reserved VCL machine and had setup the environment for the experiment over it
 ## Conclusions
 
 ## Threats to Validity
+
+1. One major area of bias could be the running the tasks on GIT first and then approaching the same problems with GITS. This could have given the participants an idea of what the tasks are and hence they did not need to repeatedly refer to the document mentioning the tasks
+2. A redesign of the tasks and generation of more studies would be needed to generate a more conclusive analysis
+3. Our automated system to track time did not always work as planned and hence for the sake of time we recorded data manually. This could have increased the margin of error in the recorded time.
+4. Due to the same reason as mentioned above the margin of error also varies between different results.
+
