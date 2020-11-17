@@ -57,7 +57,9 @@ A point to note, here 2 of our subjects had little or no previous exposure to gi
 ![Q6](/images/q6.png)
 
 ## Conclusions
+1. From the above GITS vs git bar graph we noticed that the overall time taken for gits was slightly lower than GIT for the tasks to be performed. However, this difference was not great enough to be significant.
 
+2. From the Post-Experiment questionnaire we notice that the participants found that the GITS commands were more useful
 
 ## Threats to Validity
 
