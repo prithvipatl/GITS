@@ -40,6 +40,18 @@ We reserved VCL machine and had setup the environment for the experiment over it
 
 ### Results
 
+### User Experience- Pre-Experiment Survey Results
+Before we ran our tests we took a survey asking participants about their prior experiences with Git. Below are the afterage responses that we got for the questions.
+
+| Question  | Average response |
+| --------- | ---------------- |
+| How well do you understand Git commands? Rate on from 1 to 5, 5 being you understand it completely. |  3.2  |
+| How long have you been using Github? Rate from 1 to 5, 1 means 1+ years, 2 means 2+ years and so on. | 2 |
+| How comfortable are you in using basic commands like cloning a repository, creating a branch, changing the branches, committing and pushing the changes? Rate on from 1 to 5, 5 being are a pro. | 3.7 |
+| How comfortable are you making complicated changes like rebasing to origin and changing profile username? Rate on from 1 to 5, 5 being you understand it completely. | 2.4 |
+
+### User Experience- Experiment Results
+
 From our trials, as seen from the bar chart below, majority of our subjects had taken lesser time for GITS. Since GITS has multiple commands grouped into 1, it has proven to be comparatively simpler and user friendly. Also, GITS does save on time required to manually merge the commits. 
 
 ![GITSvsgit](/images/GITSvsgit.png)
