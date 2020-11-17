@@ -56,6 +56,8 @@ From our trials, as seen from the bar chart below, majority of our subjects had 
 
 ![GITSvsgit](/images/GITSvsgit.png)
 
+<img src="/images/avgtimeGitvsGits.png" height="300" width="500">
+
 ### User Experience- Survey Results
 
 From the survey, majority of our subjects did feel that GITS makes their lives simpler. 
@@ -69,14 +71,11 @@ A point to note, here 2 of our subjects had little or no previous exposure to gi
 ![Q6](/images/q6.png)
 
 ## Conclusions
-
-1. From the above GITS vs git bar graph we noticed that the overall time taken for gits was slightly lower than GIT for the tasks to be performed. However, this difference might not great enough to be significant.
+1. From the above GITS vs git bar graph we noticed that the overall time taken for gits was slightly lower than GIT for the tasks to be performed. However, this difference was not great enough to be significant.
 
 2. From the Post-Experiment questionnaire we notice that the participants found that the GITS commands were more useful
 
 3. From the graphs, we found that Gits was easier to use while performing complex tasks like syncing the current branch with main branch and doing super-reset. For the simple operations, Git was at par with Gits.
-
-4. Based on pre-qnaire answers we have users who have used git for 2 or more years. That means they have substantial exposure to using gits. Along with that they have rate their comfort with using git commands on an average around 3.5. This supports the above conclusions, which are based on timings and post-questionnaire, that GITS is little more easier to use.
 
 ## Threats to Validity
 
