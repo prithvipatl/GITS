@@ -61,6 +61,8 @@ A point to note, here 2 of our subjects had little or no previous exposure to gi
 
 2. From the Post-Experiment questionnaire we notice that the participants found that the GITS commands were more useful
 
+3. From the graphs, we found that Gits was easier to use while performing complex tasks like syncing the current branch with main branch and doing super-reset. For the simple operations, Git was at par with Gits.
+
 ## Threats to Validity
 
 1. One major area of bias could be the running the tasks on GIT first and then approaching the same problems with GITS. This could have given the participants an idea of what the tasks are and hence they did not need to repeatedly refer to the document mentioning the tasks
