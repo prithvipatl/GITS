@@ -56,6 +56,8 @@ From our trials, as seen from the bar chart below, majority of our subjects had 
 
 ![GITSvsgit](/images/GITSvsgit.png)
 
+According to the below graph, it can be seen that average time taken by the subjects to perform tasks on GITS was lesser compared to the time taken on GIT. 
+
 <img src="/images/avgtimeGitvsGits.png" height="300" width="500">
 
 ### User Experience- Survey Results
