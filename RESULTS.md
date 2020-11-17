@@ -76,7 +76,7 @@ A point to note, here 2 of our subjects had little or no previous exposure to gi
 
 3. From the graphs, we found that Gits was easier to use while performing complex tasks like syncing the current branch with main branch and doing super-reset. For the simple operations, Git was at par with Gits.
 
-4. Based on pre-qnaire answers we have users who have used git for 2 or more years. That means they have substantial exposure to using gits. Along with that they have rate their comfort with using git commands on an average around 3.5. This supports the above conclusions, which are based on timings and post-questionnaire, that GITS is little more easier to use.
+4. Based on pre-questionnaire answers we have users who have used git for 2 or more years. That means they have substantial exposure to using git. Along with that they have rate their comfort with using git commands on an average around 3.5. This supports the above conclusions, which are based on timings and post-questionnaire, that GITS is little more easier to use.
 
 ## Threats to Validity
 
